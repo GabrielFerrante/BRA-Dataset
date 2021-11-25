@@ -1,0 +1,6 @@
+[submodule "Dataset/labelImg"]
+	path = Dataset/labelImg
+	url = https://github.com/tzutalin/labelImg.git
+[submodule "Detector/darknet"]
+	path = Detector/darknet
+	url = https://github.com/AlexeyAB/darknet.git
