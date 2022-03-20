@@ -22,12 +22,13 @@ def createTrain():
                     
                     newName = os.path.dirname(os.path.abspath(__file__))+ "/" + filename
                     
+                    
                 else:
                     newName = os.path.dirname(os.path.abspath(__file__))+ "/" + filename
 
                 os.rename(oldName, newName)
 
-                imagens.append(f"data/obj/" + filename)
+                imagens.append(f"data/obj/" + filename.replace("jpg","JPG"))
 
             
             if filename.endswith(".txt"):
@@ -46,7 +47,7 @@ def createTrain():
                         newName = os.path.dirname(os.path.abspath(__file__))+ "/" + filename
 
                     os.rename(oldName, newName)
-                    imagens.append(f"data/obj/" + filename)
+                    imagens.append(f"data/labels/" + filename)
             
 
                 
