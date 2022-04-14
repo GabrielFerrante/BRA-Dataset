@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00000380_jpg.rf.083070151e602cfa0fa0d936fa4d2352.jpg</filename>
+	<path>00000380_jpg.rf.083070151e602cfa0fa0d936fa4d2352.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>780</xmax>
+			<ymin>55</ymin>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

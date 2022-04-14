@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00000005_jpg.rf.08c3a173365c9f6c6cc76b1cf8fe6b4a.jpg</filename>
+	<path>00000005_jpg.rf.08c3a173365c9f6c6cc76b1cf8fe6b4a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LoboGuara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>812</xmax>
+			<ymin>259</ymin>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

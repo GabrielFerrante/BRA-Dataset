@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00000087_jpg.rf.213eed455cf135d3c0d93e4dff9c8858.jpg</filename>
+	<path>00000087_jpg.rf.213eed455cf135d3c0d93e4dff9c8858.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OncaParda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>206</xmin>
+			<xmax>407</xmax>
+			<ymin>27</ymin>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

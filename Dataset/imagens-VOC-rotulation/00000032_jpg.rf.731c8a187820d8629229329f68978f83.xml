@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00000032_jpg.rf.731c8a187820d8629229329f68978f83.jpg</filename>
+	<path>00000032_jpg.rf.731c8a187820d8629229329f68978f83.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jaguarundi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>586</xmax>
+			<ymin>81</ymin>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

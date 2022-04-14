@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00000151_jpg.rf.0b9de6070880a6ad898d13cf60b88fad.jpg</filename>
+	<path>00000151_jpg.rf.0b9de6070880a6ad898d13cf60b88fad.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TamanduaBandeira</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>196</xmin>
+			<xmax>518</xmax>
+			<ymin>62</ymin>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
