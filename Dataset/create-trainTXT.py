@@ -16,11 +16,11 @@ def createTrain():
         for diretorio, subpastas, arquivos in os.walk(pasta):
             for arquivo in arquivos[:int(0.8 * len(arquivos))]:
                 if arquivo.endswith(".jpg"):
-                    imagensTrain.append(f"./images/" + arquivo)
+                    imagensTrain.append(f"./images/train/" + arquivo)
             
             for arquivo in arquivos[int(0.8 * len(arquivos)):]:
                 if arquivo.endswith(".jpg"):
-                    imagensValid.append(f"./images/" + arquivo)
+                    imagensValid.append(f"./images/val/" + arquivo)
 
     with open("imagens-YOLO-rotulation/train.txt", "w") as outfile:
         for img in imagensTrain:
