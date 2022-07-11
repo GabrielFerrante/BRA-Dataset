@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>jaguarundi00000435.jpg</filename>
+	<path>/media/usp/DATA/GabrielSFerrante/PROJETO/BRA-Dataset/Dataset/images/jaguarundi/jaguarundi00000435.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6144</width>
+		<height>4088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jaguarundi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1021</xmin>
+			<ymin>326</ymin>
+			<xmax>5829</xmax>
+			<ymax>3842</ymax>
+		</bndbox>
+	</object>
+</annotation>

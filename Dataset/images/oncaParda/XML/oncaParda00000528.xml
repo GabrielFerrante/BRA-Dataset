@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>oncaParda00000528.jpg</filename>
+	<path>/media/usp/DATA/GabrielSFerrante/PROJETO/BRA-Dataset/Dataset/images/oncaParda/oncaParda00000528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OncaParda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>29</ymin>
+			<xmax>634</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

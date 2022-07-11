@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>loboGuara00000083.jpg</filename>
+	<path>/media/usp/DATA/GabrielSFerrante/PROJETO/BRA-Dataset/Dataset/images/loboGuara/loboGuara00000083.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LoboGuara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>83</ymin>
+			<xmax>973</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

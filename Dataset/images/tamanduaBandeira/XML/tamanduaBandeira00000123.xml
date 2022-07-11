@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>tamanduaBandeira00000123.jpg</filename>
+	<path>/media/usp/DATA/GabrielSFerrante/PROJETO/BRA-Dataset/Dataset/images/tamanduaBandeira/tamanduaBandeira00000123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TamanduaBandeira</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>137</ymin>
+			<xmax>1258</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

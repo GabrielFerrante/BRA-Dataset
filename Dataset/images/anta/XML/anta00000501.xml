@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>anta00000501.jpg</filename>
+	<path>/media/usp/DATA/GabrielSFerrante/PROJETO/BRA-Dataset/Dataset/imagens-YOLO-rotulation/anta/anta00000501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>223</ymin>
+			<xmax>630</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>
