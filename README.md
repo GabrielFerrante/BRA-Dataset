@@ -1,7 +1,7 @@
 # BRA-Dataset
 
 BRA-Dataset is a dataset about the animals that most suffer accidents on Brazilian highways. 
-It has 5 classes of medium and large animals, com 1823 imagens. It is free and open-source.
+It has 5 classes of medium and large animals, with 1823 imagens. It is free and open-source.
 
 
 ## Metrics achieved:
