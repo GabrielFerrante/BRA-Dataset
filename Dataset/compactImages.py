@@ -6,7 +6,7 @@ zipObj = ZipFile('zipWithObjs.zip', 'w')
 animals = ["anta", "jaguarundi", "loboGuara", "oncaParda", "tamanduaBandeira"]
 
 for item in animals:
-    os.chdir(os.path.join("imagens-YOLO-rotulation", item))
+    os.chdir(os.path.join("images", item))
         
     for filename in os.listdir(os.getcwd()):
         if filename.endswith(".jpg"):

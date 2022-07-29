@@ -12,23 +12,23 @@ def createTrain():
 
     for item in animals:
         
-        pasta = f'./imagens-YOLO-rotulation/{item}'
+        pasta = f'./images/{item}'
         for diretorio, subpastas, arquivos in os.walk(pasta):
             for arquivo in arquivos[:int(0.8 * len(arquivos))]:
                 if arquivo.endswith(".jpg"):
-                    imagensTrain.append(f"./images/train/" + arquivo)
+                    imagensTrain.append(f"../Dataset/images/train/" + arquivo)
             
             for arquivo in arquivos[int(0.8 * len(arquivos)):]:
                 if arquivo.endswith(".jpg"):
-                    imagensValid.append(f"./images/val/" + arquivo)
+                    imagensValid.append(f"../Dataset/images/val/" + arquivo)
 
-    with open("imagens-YOLO-rotulation/train.txt", "w") as outfile:
+    with open("images/train.txt", "w") as outfile:
         for img in imagensTrain:
             outfile.write(img)
             outfile.write("\n")            
         outfile.close()
     
-    with open("imagens-YOLO-rotulation/valid.txt", "w") as outfile:
+    with open("images/valid.txt", "w") as outfile:
         for img in imagensValid:
             outfile.write(img)
             outfile.write("\n")            
