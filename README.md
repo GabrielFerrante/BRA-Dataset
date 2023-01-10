@@ -34,4 +34,4 @@ Giant Anteater-------------------------------------> 293 Images / 336 Labels
 This project is a master's project in computer science and computational mathematics at the University of São Paulo - Brazil (PPG-CCMC, ICMC-USP)
 
 #### Authors: Gabriel Souto Ferrante
-#### Paper: Brazilian Road Animals (BRA): An Image Dataset of Most Commonly Run Over Animals | DOI: 
+#### Paper: Brazilian Road Animals (BRA): An Image Dataset of Most Commonly Run Over Animals | DOI: 10.1109/SIBGRAPI55357.2022.9991774
