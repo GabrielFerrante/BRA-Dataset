@@ -6,6 +6,8 @@ It has 5 classes of medium and large animals, with 1823 imagens. It is free and 
 ## NEWS
 
 Data Augmentation script with geometric transformations 
+
+
 Tutorial for COCO format conversion
 
 ## Metrics achieved:
