@@ -39,13 +39,14 @@ Giant Anteater-------------------------------------> 293 Images / 336 Labels
 clone the repository YOLO2COCO
 
 With the diretory struture
-Dataset
+
+<code>Dataset
 ---images
 ---labels
 ---class.names
 ---gen_config.data
 ---train.txt
----valid.txt
+---valid.txt</code>
 
 execute the command in YOLO2COCO folder: python darknet2coco.py --data_path ../Dataset/gen_config.data
 
