@@ -50,6 +50,12 @@ With the diretory struture
 
 execute the command in YOLO2COCO folder: python darknet2coco.py --data_path ../Dataset/gen_config.data
 
+## Videos for test your detector
+
+https://mega.nz/file/3xREFRrJ#pAmxuOanRehFlo75LUAfBokq2huZ22jUfcuPRFNQ5ow - For Tapir Class with oclusion problem
+
+https://mega.nz/file/PhhFhSgQ#1NScqSqNIOcpWgE7JR_ntbogw-b7ecKdle0mn6PRSjI - For Giant Anteater with small object and camouflage
+
 ## About
 
 This project is a master's project in computer science and computational mathematics at the University of São Paulo - Brazil (PPG-CCMC, ICMC-USP)
