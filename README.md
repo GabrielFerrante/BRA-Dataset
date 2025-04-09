@@ -50,6 +50,9 @@ With the diretory struture
 
 execute the command in YOLO2COCO folder: python darknet2coco.py --data_path ../Dataset/gen_config.data
 
+## Download BRA-DATASET
+link: https://mega.nz/folder/ilJilJqB#y-OyAryhoH5H8skaJJg2RQ
+
 ## Videos for test your detector
 
 https://mega.nz/file/3xREFRrJ#pAmxuOanRehFlo75LUAfBokq2huZ22jUfcuPRFNQ5ow - For Tapir Class with oclusion problem
