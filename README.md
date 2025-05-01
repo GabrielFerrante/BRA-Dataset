@@ -50,7 +50,7 @@ With the diretory struture
 
 execute the command in YOLO2COCO folder: python darknet2coco.py --data_path ../Dataset/gen_config.data
 
-## Download BRA-DATASET
+## Download BRA-DATASET or BRA-DATASET with geometric transformations data augmentation
 link: https://mega.nz/folder/ilJilJqB#y-OyAryhoH5H8skaJJg2RQ
 
 ## Videos for test your detector
